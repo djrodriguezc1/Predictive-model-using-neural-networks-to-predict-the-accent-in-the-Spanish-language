@@ -1,0 +1,2 @@
+# Predictive-model-using-neural-networks-to-predict-the-accent-in-the-Spanish-language
+Create a predictive model using neural networks to predict the accent in the Spanish language using an audio recording.  The different accents to predict are as follows:  'chileno', 'surpeninsular', 'andino', nan, 'caribe', 'nortepeninsular', 'mexicano', 'rioplatense', 'americacentral', 'centrosurpeninsular', 'canario', 'filipinas'
